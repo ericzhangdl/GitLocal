@@ -6,4 +6,9 @@ to see what happen
 
 
 
+
 12:33 add branch a;
+
+fix bug in branch b;
+OK 
+
