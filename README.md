@@ -12,4 +12,4 @@ to see what happen
 fix bug in branch b;
 OK 
 
-// feature C in brach c
+// feature C in branch c
